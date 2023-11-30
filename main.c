@@ -10,7 +10,7 @@ struct Person_Rec {
 
     char tel[15]; // ÀüÈ­¹øÈ£
 
-    int grade; // ÇĞ³â
+    int grade; // ÇOWOPFâ
 
 };
 
